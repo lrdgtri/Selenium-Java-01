@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KeyboardAndMouseInput",
+            "request": "launch",
+            "mainClass": "KeyboardAndMouseInput",
+            "projectName": "KeyboardAndMouseInput"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestSample",
+            "request": "launch",
+            "mainClass": "TestSample",
+            "projectName": "TestSample"
+        }
+    ]
+}
